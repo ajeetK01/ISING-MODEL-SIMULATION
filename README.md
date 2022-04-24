@@ -1,2 +1,3 @@
 # ISING-MODEL-SIMULATION
-Ising model simulation using Monte Carlo Algorithm
+Ising model simulation using Monte Carlo Algorithm and 
+Metropolis hasting algorithm
